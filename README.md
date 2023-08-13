@@ -2,6 +2,9 @@
 
 This project is a fully responsive dashboard website built using HTML and CSS. The purpose of this project was to apply the concepts and skills learned in an HTML and CSS course. The dashboard website consists of multiple pages and sections, providing various functionalities and information to the users.
 
+## Live Demo
+https://hussenmohamed.github.io/Dashboard_Project/index.html
+
 ## Features
 
 The dashboard project includes the following main pages and sections:
